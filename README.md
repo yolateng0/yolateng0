@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=yolateng0&show_icons=true
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=yolateng0&show_icons=true)
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=yunohost/yunohost
+![GitHub Contributors Image](https://contrib.rocks/image?repo=yunohost/yunohost)
 
 
 <!--
